@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380.0" y="28" text-anchor="middle" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="bold">无 L2 与只读 L2 的平均归一化执行时间</text>
+<line x1="90" y1="365.0" x2="725" y2="365.0" stroke="#e2e8f0"/>
+<text x="80" y="369.0" text-anchor="end" font-family="Arial" font-size="12">0.00</text>
+<line x1="90" y1="303.0" x2="725" y2="303.0" stroke="#e2e8f0"/>
+<text x="80" y="307.0" text-anchor="end" font-family="Arial" font-size="12">0.22</text>
+<line x1="90" y1="241.0" x2="725" y2="241.0" stroke="#e2e8f0"/>
+<text x="80" y="245.0" text-anchor="end" font-family="Arial" font-size="12">0.45</text>
+<line x1="90" y1="179.0" x2="725" y2="179.0" stroke="#e2e8f0"/>
+<text x="80" y="183.0" text-anchor="end" font-family="Arial" font-size="12">0.67</text>
+<line x1="90" y1="117.0" x2="725" y2="117.0" stroke="#e2e8f0"/>
+<text x="80" y="121.0" text-anchor="end" font-family="Arial" font-size="12">0.90</text>
+<line x1="90" y1="55.0" x2="725" y2="55.0" stroke="#e2e8f0"/>
+<text x="80" y="59.0" text-anchor="end" font-family="Arial" font-size="12">1.12</text>
+<line x1="90" y1="55" x2="90" y2="365" stroke="#334155"/>
+<line x1="90" y1="365" x2="725" y2="365" stroke="#334155"/>
+<text x="90.0" y="390" text-anchor="middle" font-family="Arial" font-size="13">1</text>
+<text x="248.8" y="390" text-anchor="middle" font-family="Arial" font-size="13">2</text>
+<text x="407.5" y="390" text-anchor="middle" font-family="Arial" font-size="13">3</text>
+<text x="566.2" y="390" text-anchor="middle" font-family="Arial" font-size="13">4</text>
+<text x="725.0" y="390" text-anchor="middle" font-family="Arial" font-size="13">5</text>
+<text x="380.0" y="420" text-anchor="middle" font-family="Microsoft YaHei, sans-serif" font-size="13">核心数</text>
+<text x="22" y="220.0" text-anchor="middle" transform="rotate(-90 22 220.0)" font-family="Microsoft YaHei, sans-serif" font-size="13">相对单核执行时间</text>
+<polyline points="90.0,88.2 248.8,130.2 407.5,155.9 566.2,166.7 725.0,174.7" fill="none" stroke="#7c3aed" stroke-width="3"/>
+<circle cx="90.0" cy="88.2" r="4" fill="#7c3aed"/>
+<circle cx="248.8" cy="130.2" r="4" fill="#7c3aed"/>
+<circle cx="407.5" cy="155.9" r="4" fill="#7c3aed"/>
+<circle cx="566.2" cy="166.7" r="4" fill="#7c3aed"/>
+<circle cx="725.0" cy="174.7" r="4" fill="#7c3aed"/>
+<line x1="102" y1="67" x2="128" y2="67" stroke="#7c3aed" stroke-width="3"/>
+<text x="136" y="71" font-family="Microsoft YaHei, sans-serif" font-size="12">无 L2</text>
+<polyline points="90.0,90.1 248.8,131.6 407.5,158.7 566.2,170.8 725.0,180.5" fill="none" stroke="#059669" stroke-width="3"/>
+<circle cx="90.0" cy="90.1" r="4" fill="#059669"/>
+<circle cx="248.8" cy="131.6" r="4" fill="#059669"/>
+<circle cx="407.5" cy="158.7" r="4" fill="#059669"/>
+<circle cx="566.2" cy="170.8" r="4" fill="#059669"/>
+<circle cx="725.0" cy="180.5" r="4" fill="#059669"/>
+<line x1="102" y1="91" x2="128" y2="91" stroke="#059669" stroke-width="3"/>
+<text x="136" y="95" font-family="Microsoft YaHei, sans-serif" font-size="12">只读 L2</text>
+</svg>

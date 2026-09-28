@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380.0" y="28" text-anchor="middle" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="bold">场景 A 与场景 B 的平均加速比</text>
+<line x1="90" y1="365.0" x2="725" y2="365.0" stroke="#e2e8f0"/>
+<text x="80" y="369.0" text-anchor="end" font-family="Arial" font-size="12">0.00</text>
+<line x1="90" y1="303.0" x2="725" y2="303.0" stroke="#e2e8f0"/>
+<text x="80" y="307.0" text-anchor="end" font-family="Arial" font-size="12">0.38</text>
+<line x1="90" y1="241.0" x2="725" y2="241.0" stroke="#e2e8f0"/>
+<text x="80" y="245.0" text-anchor="end" font-family="Arial" font-size="12">0.76</text>
+<line x1="90" y1="179.0" x2="725" y2="179.0" stroke="#e2e8f0"/>
+<text x="80" y="183.0" text-anchor="end" font-family="Arial" font-size="12">1.13</text>
+<line x1="90" y1="117.0" x2="725" y2="117.0" stroke="#e2e8f0"/>
+<text x="80" y="121.0" text-anchor="end" font-family="Arial" font-size="12">1.51</text>
+<line x1="90" y1="55.0" x2="725" y2="55.0" stroke="#e2e8f0"/>
+<text x="80" y="59.0" text-anchor="end" font-family="Arial" font-size="12">1.89</text>
+<line x1="90" y1="55" x2="90" y2="365" stroke="#334155"/>
+<line x1="90" y1="365" x2="725" y2="365" stroke="#334155"/>
+<text x="90.0" y="390" text-anchor="middle" font-family="Arial" font-size="13">1</text>
+<text x="248.8" y="390" text-anchor="middle" font-family="Arial" font-size="13">2</text>
+<text x="407.5" y="390" text-anchor="middle" font-family="Arial" font-size="13">3</text>
+<text x="566.2" y="390" text-anchor="middle" font-family="Arial" font-size="13">4</text>
+<text x="725.0" y="390" text-anchor="middle" font-family="Arial" font-size="13">5</text>
+<text x="380.0" y="420" text-anchor="middle" font-family="Microsoft YaHei, sans-serif" font-size="13">核心数</text>
+<text x="22" y="220.0" text-anchor="middle" transform="rotate(-90 22 220.0)" font-family="Microsoft YaHei, sans-serif" font-size="13">平均加速比</text>
+<polyline points="90.0,200.9 248.8,183.4 407.5,168.1 566.2,158.9 725.0,153.3" fill="none" stroke="#2563eb" stroke-width="3"/>
+<circle cx="90.0" cy="200.9" r="4" fill="#2563eb"/>
+<circle cx="248.8" cy="183.4" r="4" fill="#2563eb"/>
+<circle cx="407.5" cy="168.1" r="4" fill="#2563eb"/>
+<circle cx="566.2" cy="158.9" r="4" fill="#2563eb"/>
+<circle cx="725.0" cy="153.3" r="4" fill="#2563eb"/>
+<line x1="102" y1="67" x2="128" y2="67" stroke="#2563eb" stroke-width="3"/>
+<text x="136" y="71" font-family="Microsoft YaHei, sans-serif" font-size="12">问题 1 场景 A</text>
+<polyline points="90.0,200.9 248.8,160.3 407.5,126.4 566.2,105.3 725.0,88.2" fill="none" stroke="#dc2626" stroke-width="3"/>
+<circle cx="90.0" cy="200.9" r="4" fill="#dc2626"/>
+<circle cx="248.8" cy="160.3" r="4" fill="#dc2626"/>
+<circle cx="407.5" cy="126.4" r="4" fill="#dc2626"/>
+<circle cx="566.2" cy="105.3" r="4" fill="#dc2626"/>
+<circle cx="725.0" cy="88.2" r="4" fill="#dc2626"/>
+<line x1="102" y1="91" x2="128" y2="91" stroke="#dc2626" stroke-width="3"/>
+<text x="136" y="95" font-family="Microsoft YaHei, sans-serif" font-size="12">问题 2 场景 B</text>
+</svg>
